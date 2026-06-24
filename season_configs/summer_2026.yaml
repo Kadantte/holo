@@ -8,7 +8,7 @@ info:
   anilist: 'https://anilist.co/anime/208225'
   anidb: 'http://anidb.net/a19909'
   kitsu: ''
-  animeplanet: ''
+  animeplanet: 'http://www.anime-planet.com/anime/the-dukes-son-claims-he-wont-love-me-yet-showers-me-with-adoration'
   official: 'https://kimiai-anime.com/'
   subreddit: ''
 streams:
@@ -30,7 +30,7 @@ title_en: 'Animatica "Hokuto no Ken: Kenougun Zako-tachi no Banka" 2nd Cour'
 alias: ['Animatica "Elegy for the Henchmen: Fist of the North Star" Cour 2']
 has_source: true
 info:
-  mal: ''
+  mal: 'https://myanimelist.net/anime/64378'
   anilist: ''
   anidb: ''
   kitsu: ''
@@ -53,7 +53,7 @@ streams:
 ---
 title: ""
 title_en: 'Azur Lane: Bisoku Zenshin! Ni!!'
-alias: ['Azur Lane: Slow Ahead! Season 2']
+alias: ['Anime AzurLane: Slow Ahead! Season 2']
 has_source: true
 info:
   mal: 'https://myanimelist.net/anime/56613'
@@ -64,7 +64,7 @@ info:
   official: 'https://2nd.azurlane-bisoku.jp/'
   subreddit: ''
 streams:
-  crunchyroll: ''
+  crunchyroll: 'https://www.crunchyroll.com/series/GQWH0MXPQ'
   museasia: ''
   anione: ''
   funimation|Funimation: ''
@@ -85,11 +85,11 @@ info:
   anilist: 'https://anilist.co/anime/187538'
   anidb: 'http://anidb.net/a19203'
   kitsu: ''
-  animeplanet: ''
+  animeplanet: 'http://www.anime-planet.com/anime/black-torch'
   official: 'https://blacktorch-anime.com/'
   subreddit: ''
 streams:
-  crunchyroll: ''
+  crunchyroll: 'https://www.crunchyroll.com/series/GT00377907'
   museasia: ''
   anione: ''
   funimation|Funimation: ''
@@ -111,7 +111,7 @@ info:
   anilist: 'https://anilist.co/anime/185874'
   anidb: 'http://anidb.net/a19079'
   kitsu: ''
-  animeplanet: ''
+  animeplanet: 'http://www.anime-planet.com/anime/bleach-thousand-year-blood-war-part-iv-the-calamity'
   official: 'https://bleach-anime.com/'
   subreddit: ''
 streams:
@@ -136,7 +136,7 @@ info:
   anilist: 'https://anilist.co/anime/198376'
   anidb: 'http://anidb.net/a19566'
   kitsu: 'https://kitsu.app/anime/50137'
-  animeplanet: ''
+  animeplanet: 'http://www.anime-planet.com/anime/bang-dream-yumemita'
   official: 'https://anime.bang-dream.com/yumemita/'
   subreddit: ''
 streams:
@@ -162,7 +162,7 @@ info:
   anilist: 'https://anilist.co/anime/199408'
   anidb: 'http://anidb.net/a19530'
   kitsu: ''
-  animeplanet: ''
+  animeplanet: 'http://www.anime-planet.com/anime/a-livid-ladys-guide-to-getting-even-how-i-crushed-my-homeland-with-my-mighty-grimoires'
   official: 'https://buchigire-anime.com/'
   subreddit: ''
 streams:
@@ -187,7 +187,7 @@ info:
   anilist: 'https://anilist.co/anime/201667'
   anidb: 'http://anidb.net/a19698'
   kitsu: ''
-  animeplanet: ''
+  animeplanet: 'http://www.anime-planet.com/anime/bungo-stray-dogs-wan-2'
   official: 'https://wan2.bungo-stray-dogs-wan.com/'
   subreddit: ''
 streams:
@@ -206,14 +206,14 @@ streams:
 ---
 title: ""
 title_en: 'Clevatess Ⅱ -Majuu no Ou to Akago to Shikabane no Yuusha Denshou-'
-alias: ['Clevatess Ⅱ']
+alias: ['Clevatess Season 2']
 has_source: true
 info:
   mal: 'https://myanimelist.net/anime/62513'
   anilist: 'https://anilist.co/anime/198946'
   anidb: 'http://anidb.net/a19581'
   kitsu: 'https://kitsu.app/anime/50154'
-  animeplanet: ''
+  animeplanet: 'http://www.anime-planet.com/anime/clevatess-season-2'
   official: 'https://clevatess.com/'
   subreddit: ''
 streams:
@@ -239,7 +239,7 @@ info:
   anilist: 'https://anilist.co/anime/184356'
   anidb: 'http://anidb.net/a19838'
   kitsu: ''
-  animeplanet: ''
+  animeplanet: 'http://www.anime-planet.com/anime/tomb-raider-king'
   official: 'https://tombraiderking-pr.com/'
   subreddit: ''
 streams:
@@ -265,7 +265,7 @@ info:
   anilist: 'https://anilist.co/anime/188139'
   anidb: 'http://anidb.net/a19226'
   kitsu: ''
-  animeplanet: ''
+  animeplanet: 'http://www.anime-planet.com/anime/though-i-am-an-inept-villainess-tale-of-the-butterfly-rat-body-swap-in-the-maiden-court'
   official: 'https://futsutsuka.net/'
   subreddit: ''
 streams:
@@ -284,14 +284,14 @@ streams:
 ---
 title: ""
 title_en: 'Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu II'
-alias: ['Skeleton Knight in Another World 2']
+alias: ['Skeleton Knight in Another World Season 2']
 has_source: true
 info:
   mal: 'https://myanimelist.net/anime/60522'
   anilist: 'https://anilist.co/anime/185542'
   anidb: 'http://anidb.net/a19053'
   kitsu: 'https://kitsu.app/anime/49410'
-  animeplanet: ''
+  animeplanet: 'http://www.anime-planet.com/anime/skeleton-knight-in-another-world-2'
   official: 'https://skeleton-knight.com/'
   subreddit: ''
 streams:
@@ -317,7 +317,7 @@ info:
   anilist: 'https://anilist.co/anime/199111'
   anidb: 'http://anidb.net/a19600'
   kitsu: ''
-  animeplanet: ''
+  animeplanet: 'http://www.anime-planet.com/anime/grand-blue-season-3'
   official: 'http://grandblue-anime.com/'
   subreddit: ''
 streams:
@@ -343,7 +343,7 @@ info:
   anilist: 'https://anilist.co/anime/196017'
   anidb: 'http://anidb.net/a19473'
   kitsu: ''
-  animeplanet: ''
+  animeplanet: 'http://www.anime-planet.com/anime/grow-up-show-sunflower-circus'
   official: 'https://growupshow.com/'
   subreddit: ''
 streams:
@@ -369,7 +369,7 @@ info:
   anilist: 'https://anilist.co/anime/199066'
   anidb: 'http://anidb.net/a19594'
   kitsu: ''
-  animeplanet: ''
+  animeplanet: 'http://www.anime-planet.com/anime/hanaori-san-still-wants-to-fight-in-the-next-life'
   official: 'https://hanaorisan-anime.com/'
   subreddit: ''
 streams:
@@ -395,7 +395,7 @@ info:
   anilist: 'https://anilist.co/anime/209669'
   anidb: 'http://anidb.net/a19961'
   kitsu: ''
-  animeplanet: ''
+  animeplanet: 'http://www.anime-planet.com/anime/hana-kimi-season-2'
   official: 'https://hanakimi-anime.com/'
   subreddit: ''
 streams:
@@ -421,7 +421,7 @@ info:
   anilist: 'https://anilist.co/anime/209983'
   anidb: 'http://anidb.net/a19978'
   kitsu: ''
-  animeplanet: ''
+  animeplanet: 'http://www.anime-planet.com/anime/hell-mode-the-hardcore-gamer-dominates-in-another-world-with-garbage-balancing-2nd-season'
   official: 'https://hellmode-anime.com/'
   subreddit: ''
 streams:
@@ -447,11 +447,11 @@ info:
   anilist: 'https://anilist.co/anime/192800'
   anidb: 'http://anidb.net/a19327'
   kitsu: ''
-  animeplanet: ''
+  animeplanet: 'http://www.anime-planet.com/anime/heroine-saint-no-im-an-all-works-maid-and-proud-of-it'
   official: 'https://all-works-maid-anime.com/'
   subreddit: ''
 streams:
-  crunchyroll: ''
+  crunchyroll: 'https://www.crunchyroll.com/series/GT00378069'
   museasia: ''
   anione: ''
   funimation|Funimation: ''
@@ -473,7 +473,7 @@ info:
   anilist: 'https://anilist.co/anime/195833'
   anidb: 'http://anidb.net/a19462'
   kitsu: ''
-  animeplanet: ''
+  animeplanet: 'http://www.anime-planet.com/anime/honoo-no-toukyuujo-dodge-danko'
   official: 'https://dodge-danko.com/'
   subreddit: ''
 streams:
@@ -499,7 +499,7 @@ info:
   anilist: 'https://anilist.co/anime/196356'
   anidb: 'http://anidb.net/a19492'
   kitsu: 'https://kitsu.app/anime/50055'
-  animeplanet: ''
+  animeplanet: 'http://www.anime-planet.com/anime/my-stepmother-and-stepsisters-arent-wicked'
   official: 'https://ibikona-anime.com/'
   subreddit: ''
 streams:
@@ -525,7 +525,7 @@ info:
   anilist: 'https://anilist.co/anime/206249'
   anidb: 'http://anidb.net/a19837'
   kitsu: ''
-  animeplanet: ''
+  animeplanet: 'http://www.anime-planet.com/anime/iwamoto-senpai-no-suisen'
   official: 'https://iwamoto-anime.com/'
   subreddit: ''
 streams:
@@ -551,7 +551,7 @@ info:
   anilist: 'https://anilist.co/anime/185692'
   anidb: 'http://anidb.net/a19063'
   kitsu: ''
-  animeplanet: ''
+  animeplanet: 'http://www.anime-planet.com/anime/magilumiere-co-ltd-2nd-season'
   official: 'https://magilumiere-pr.com/'
   subreddit: ''
 streams:
@@ -577,7 +577,7 @@ info:
   anilist: 'https://anilist.co/anime/194829'
   anidb: 'http://anidb.net/a19400'
   kitsu: ''
-  animeplanet: ''
+  animeplanet: 'http://www.anime-planet.com/anime/from-old-country-bumpkin-to-master-swordsman-season-2'
   official: 'https://ossan-kensei.com/'
   subreddit: ''
 streams:
@@ -603,7 +603,7 @@ info:
   anilist: 'https://anilist.co/anime/187260'
   anidb: 'http://anidb.net/a19189'
   kitsu: 'https://kitsu.app/anime/49607'
-  animeplanet: ''
+  animeplanet: 'http://www.anime-planet.com/anime/i-want-to-love-you-till-your-dying-day'
   official: 'https://kimishinu-anime.com/'
   subreddit: ''
 streams:
@@ -629,7 +629,7 @@ info:
   anilist: 'https://anilist.co/anime/200637'
   anidb: 'http://anidb.net/a19663'
   kitsu: ''
-  animeplanet: ''
+  animeplanet: 'http://www.anime-planet.com/anime/the-100-girlfriends-who-really-really-really-really-really-love-you-season-3'
   official: 'https://hyakkano.com/'
   subreddit: ''
 streams:
@@ -681,7 +681,7 @@ info:
   anilist: 'https://anilist.co/anime/188525'
   anidb: 'http://anidb.net/a19232'
   kitsu: ''
-  animeplanet: ''
+  animeplanet: 'http://www.anime-planet.com/anime/kore-kaite-shine'
   official: 'https://www.vap.co.jp/korekaite-shine/'
   subreddit: ''
 streams:
@@ -706,7 +706,7 @@ info:
   anilist: 'https://anilist.co/anime/200230'
   anidb: 'http://anidb.net/a19646'
   kitsu: 'https://kitsu.app/anime/50258'
-  animeplanet: ''
+  animeplanet: 'http://www.anime-planet.com/anime/lets-go-kaikigumi'
   official: 'https://kaikigumi.com/'
   subreddit: ''
 streams:
@@ -732,11 +732,11 @@ info:
   anilist: 'https://anilist.co/anime/197715'
   anidb: 'http://anidb.net/a19534'
   kitsu: ''
-  animeplanet: ''
+  animeplanet: 'http://www.anime-planet.com/anime/the-villager-of-level-999'
   official: 'https://lv999-anime.com/'
   subreddit: ''
 streams:
-  crunchyroll: ''
+  crunchyroll: 'https://www.crunchyroll.com/series/GT00371878'
   museasia: ''
   anione: ''
   funimation|Funimation: ''
@@ -861,11 +861,11 @@ info:
   anilist: 'https://anilist.co/anime/196219'
   anidb: 'http://anidb.net/a19485'
   kitsu: ''
-  animeplanet: ''
+  animeplanet: 'http://www.anime-planet.com/anime/the-oblivious-saint-cant-contain-her-power'
   official: 'https://mujikaku-seijo.com/'
   subreddit: ''
 streams:
-  crunchyroll: ''
+  crunchyroll: 'https://www.crunchyroll.com/series/GT00378125'
   museasia: ''
   anione: ''
   funimation|Funimation: ''
@@ -913,11 +913,11 @@ info:
   anilist: 'https://anilist.co/anime/186863'
   anidb: 'http://anidb.net/a19172'
   kitsu: 'https://kitsu.app/anime/49585'
-  animeplanet: ''
+  animeplanet: 'http://www.anime-planet.com/anime/the-cat-and-the-dragon'
   official: 'https://nekoryuu-pr.com/'
   subreddit: ''
 streams:
-  crunchyroll: ''
+  crunchyroll: 'https://www.crunchyroll.com/series/GT00378117'
   museasia: ''
   anione: ''
   funimation|Funimation: ''
@@ -939,7 +939,7 @@ info:
   anilist: 'https://anilist.co/anime/182616'
   anidb: 'http://anidb.net/a18903'
   kitsu: ''
-  animeplanet: ''
+  animeplanet: 'http://www.anime-planet.com/anime/the-elusive-samurai-2nd-season'
   official: 'https://nigewaka.run/'
   subreddit: ''
 streams:
@@ -990,8 +990,8 @@ info:
   anilist: 'https://anilist.co/anime/197178'
   anidb: 'http://anidb.net/a19524'
   kitsu: 'https://kitsu.app/anime/50089'
-  animeplanet: ''
-  official: 'null'
+  animeplanet: 'http://www.anime-planet.com/anime/one-piece-heroines'
+  official: ''
   subreddit: ''
 streams:
   crunchyroll: ''
@@ -1016,7 +1016,7 @@ info:
   anilist: 'https://anilist.co/anime/194219'
   anidb: 'http://anidb.net/a19378'
   kitsu: ''
-  animeplanet: ''
+  animeplanet: 'http://www.anime-planet.com/anime/the-ogres-bride'
   official: 'https://onihana-anime.com/'
   subreddit: ''
 streams:
@@ -1046,7 +1046,7 @@ info:
   official: 'https://mobseka.com/'
   subreddit: ''
 streams:
-  crunchyroll: ''
+  crunchyroll: 'https://www.crunchyroll.com/series/G0XHWM0D3'
   museasia: ''
   anione: ''
   funimation|Funimation: ''
@@ -1068,11 +1068,11 @@ info:
   anilist: 'https://anilist.co/anime/204466'
   anidb: 'http://anidb.net/a19782'
   kitsu: ''
-  animeplanet: ''
+  animeplanet: 'http://www.anime-planet.com/anime/kaiju-girl-caramelise'
   official: 'https://otomekaiju.com/'
   subreddit: ''
 streams:
-  crunchyroll: ''
+  crunchyroll: 'https://www.crunchyroll.com/series/GT00378081'
   museasia: ''
   anione: ''
   funimation|Funimation: ''
@@ -1170,11 +1170,11 @@ info:
   anilist: 'https://anilist.co/anime/208044'
   anidb: 'http://anidb.net/a19896'
   kitsu: ''
-  animeplanet: ''
+  animeplanet: 'http://www.anime-planet.com/anime/from-overshadowed-to-overpowered-second-reincarnation-of-a-talentless-sage'
   official: 'https://rakudai-anime.com/'
   subreddit: ''
 streams:
-  crunchyroll: ''
+  crunchyroll: 'https://www.crunchyroll.com/series/GT00378115'
   museasia: ''
   anione: ''
   funimation|Funimation: ''
@@ -1196,7 +1196,7 @@ info:
   anilist: 'https://anilist.co/anime/203880'
   anidb: 'http://anidb.net/a19764'
   kitsu: ''
-  animeplanet: ''
+  animeplanet: 'http://www.anime-planet.com/anime/dara-san-of-reiwa'
   official: 'https://darasan-anime.com/'
   subreddit: ''
 streams:
@@ -1222,7 +1222,7 @@ info:
   anilist: 'https://anilist.co/anime/196218'
   anidb: 'http://anidb.net/a19484'
   kitsu: ''
-  animeplanet: ''
+  animeplanet: 'http://www.anime-planet.com/anime/the-frontier-lord-begins-with-zero-subjects'
   official: 'https://ryomin0-anime.com/'
   subreddit: ''
 streams:
@@ -1248,11 +1248,11 @@ info:
   anilist: 'https://anilist.co/anime/201514'
   anidb: 'http://anidb.net/a19690'
   kitsu: ''
-  animeplanet: ''
+  animeplanet: 'http://www.anime-planet.com/anime/rich-girl-caretaker-im-secretly-the-caregiver-of-the-most-popular-girl-in-this-rich-kid-school'
   official: 'https://saijonoosewa-anime.com/'
   subreddit: ''
 streams:
-  crunchyroll: ''
+  crunchyroll: 'https://www.crunchyroll.com/series/GT00378102'
   museasia: ''
   anione: ''
   funimation|Funimation: ''
@@ -1304,7 +1304,7 @@ info:
   official: 'https://kinemacitrus.biz/goodbyelara/'
   subreddit: ''
 streams:
-  crunchyroll: ''
+  crunchyroll: 'https://www.crunchyroll.com/series/GT00378059'
   museasia: ''
   anione: ''
   funimation|Funimation: ''
@@ -1326,7 +1326,7 @@ info:
   anilist: 'https://anilist.co/anime/210031'
   anidb: 'http://anidb.net/a19983'
   kitsu: ''
-  animeplanet: ''
+  animeplanet: 'http://www.anime-planet.com/anime/you-and-i-are-polar-opposites-2nd-season'
   official: 'https://sh-anime.shochiku.co.jp/seihantai_anime/'
   subreddit: ''
 streams:
@@ -1344,19 +1344,19 @@ streams:
   nyaa: ''
 ---
 title: ""
-title_en: 'Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha'
-alias: ["The World's Strongest Rearguard: Labyrinth Country's Novice Seeker"]
+title_en: 'Sekai Saikyou no Kouei'
+alias: ["The World's Strongest Rearguard"]
 has_source: true
 info:
   mal: 'https://myanimelist.net/anime/62435'
   anilist: 'https://anilist.co/anime/198409'
   anidb: 'http://anidb.net/a19569'
   kitsu: ''
-  animeplanet: ''
+  animeplanet: 'http://www.anime-planet.com/anime/the-worlds-strongest-rearguard-labyrinth-countrys-novice-seeker'
   official: 'https://strongestrearguard-anime.com/'
   subreddit: ''
 streams:
-  crunchyroll: ''
+  crunchyroll: 'https://www.crunchyroll.com/series/GT00378122'
   museasia: ''
   anione: ''
   funimation|Funimation: ''
@@ -1378,7 +1378,7 @@ info:
   anilist: 'https://anilist.co/anime/207809'
   anidb: 'http://anidb.net/a19894'
   kitsu: ''
-  animeplanet: ''
+  animeplanet: 'http://www.anime-planet.com/anime/red-river'
   official: 'https://www.vap.co.jp/sorahaakaikawanohotori/'
   subreddit: ''
 streams:
@@ -1404,7 +1404,7 @@ info:
   anilist: 'https://anilist.co/anime/209504'
   anidb: 'http://anidb.net/a19954'
   kitsu: ''
-  animeplanet: ''
+  animeplanet: 'http://www.anime-planet.com/anime/the-forsaken-saintess-and-her-foodie-roadtrip-in-another-world'
   official: 'https://isekai-gohantabi.com/'
   subreddit: ''
 streams:
@@ -1429,7 +1429,7 @@ info:
   anilist: 'https://anilist.co/anime/177699'
   anidb: 'http://anidb.net/a18652'
   kitsu: ''
-  animeplanet: ''
+  animeplanet: 'http://www.anime-planet.com/anime/the-ghost-in-the-shell'
   official: 'https://www.theghostintheshell-anime.jp/'
   subreddit: ''
 streams:
@@ -1459,7 +1459,7 @@ info:
   official: 'https://taiari-anime.com/'
   subreddit: ''
 streams:
-  crunchyroll: ''
+  crunchyroll: 'https://www.crunchyroll.com/series/GT00362362'
   museasia: ''
   anione: ''
   funimation|Funimation: ''
@@ -1481,7 +1481,7 @@ info:
   anilist: 'https://anilist.co/anime/198709'
   anidb: 'http://anidb.net/a19573'
   kitsu: ''
-  animeplanet: ''
+  animeplanet: 'http://www.anime-planet.com/anime/victoria-of-many-faces'
   official: 'https://victoria-anime.com/'
   subreddit: ''
 streams:
@@ -1500,7 +1500,7 @@ streams:
 ---
 title: ""
 title_en: 'Tenkou-saki no Seiso Karen na Bishoujo ga, Mukashi Danshi to Omotte Issho ni Asonda Osananajimi Datta Ken'
-alias: ['The Neat and Pretty Girl at My New School Is a Childhood Friend of Mine Who I Thought Was a Boy']
+alias: ['Oh Boy, Was I Wrong About Her']
 has_source: true
 info:
   mal: 'https://myanimelist.net/anime/56735'
@@ -1533,11 +1533,11 @@ info:
   anilist: 'https://anilist.co/anime/190569'
   anidb: 'http://anidb.net/a19290'
   kitsu: ''
-  animeplanet: ''
+  animeplanet: 'http://www.anime-planet.com/anime/jaadugar-a-witch-in-mongolia'
   official: 'https://anime-jaadugar.com/'
   subreddit: ''
 streams:
-  crunchyroll: ''
+  crunchyroll: 'https://www.crunchyroll.com/series/GT00378078'
   museasia: ''
   anione: ''
   funimation|Funimation: ''
@@ -1559,7 +1559,7 @@ info:
   anilist: 'https://anilist.co/anime/204060'
   anidb: 'http://anidb.net/a19768'
   kitsu: ''
-  animeplanet: ''
+  animeplanet: 'http://www.anime-planet.com/anime/iron-wok-jan'
   official: 'https://tetsujan.com/'
   subreddit: ''
 streams:
@@ -1584,7 +1584,7 @@ info:
   anilist: 'https://anilist.co/anime/207254'
   anidb: 'http://anidb.net/a19877'
   kitsu: 'https://kitsu.app/anime/50519'
-  animeplanet: ''
+  animeplanet: 'http://www.anime-planet.com/anime/thunder-3'
   official: 'https://thunder3-anime.com/'
   subreddit: ''
 streams:
@@ -1610,7 +1610,7 @@ info:
   anilist: 'https://anilist.co/anime/202269'
   anidb: 'http://anidb.net/a19720'
   kitsu: ''
-  animeplanet: ''
+  animeplanet: 'http://www.anime-planet.com/anime/love-unseen-beneath-the-clear-night-sky'
   official: 'https://sh-anime.shochiku.co.jp/kakekoi/'
   subreddit: ''
 streams:
@@ -1640,7 +1640,7 @@ info:
   official: 'https://sh-anime.shochiku.co.jp/jukishi-anime/'
   subreddit: ''
 streams:
-  crunchyroll: ''
+  crunchyroll: 'https://www.crunchyroll.com/series/GT00378018'
   museasia: ''
   anione: ''
   funimation|Funimation: ''
@@ -1655,14 +1655,14 @@ streams:
 ---
 title: ""
 title_en: 'Uchi no Otouto-domo ga Sumimasen'
-alias: ['Please Excuse My Younger Brothers']
+alias: ['Sorry About My Little Brothers']
 has_source: true
 info:
   mal: 'https://myanimelist.net/anime/63061'
   anilist: 'https://anilist.co/anime/203490'
   anidb: 'http://anidb.net/a19755'
   kitsu: ''
-  animeplanet: ''
+  animeplanet: 'http://www.anime-planet.com/anime/uchi-no-otouto-domo-ga-sumimasen'
   official: 'https://uchioto-anime.com/'
   subreddit: ''
 streams:
@@ -1688,7 +1688,7 @@ info:
   anilist: 'https://anilist.co/anime/207674'
   anidb: 'http://anidb.net/a19889'
   kitsu: ''
-  animeplanet: ''
+  animeplanet: 'http://www.anime-planet.com/anime/ushirou-no-shoumen-kamui-san'
   official: 'https://kamuisan.deregula.com/'
   subreddit: ''
 streams:
@@ -1707,14 +1707,14 @@ streams:
 ---
 title: ""
 title_en: 'World Is Dancing'
-alias: ['The World is Dancing']
+alias: ['The World Is Dancing']
 has_source: true
 info:
   mal: 'https://myanimelist.net/anime/63347'
   anilist: 'https://anilist.co/anime/206521'
   anidb: 'http://anidb.net/a19849'
   kitsu: ''
-  animeplanet: ''
+  animeplanet: 'http://www.anime-planet.com/anime/the-world-is-dancing'
   official: 'https://sh-anime.shochiku.co.jp/worldisdancing-anime/'
   subreddit: ''
 streams:
@@ -1740,7 +1740,7 @@ info:
   anilist: 'https://anilist.co/anime/207141'
   anidb: 'http://anidb.net/a19873'
   kitsu: ''
-  animeplanet: ''
+  animeplanet: 'http://www.anime-planet.com/anime/chainsmoker-cat'
   official: 'https://yanineko-anime.com/'
   subreddit: ''
 streams:
@@ -1765,7 +1765,7 @@ info:
   anilist: 'https://anilist.co/anime/209800'
   anidb: 'http://anidb.net/a19816'
   kitsu: ''
-  animeplanet: ''
+  animeplanet: 'http://www.anime-planet.com/anime/yoroi-shinden-samurai-troopers-part-ii'
   official: 'https://www.samurai-trooper.net/'
   subreddit: ''
 streams:
@@ -1784,7 +1784,7 @@ streams:
 ---
 title: ""
 title_en: 'Youjo Senki II'
-alias: ['Saga of Tanya the Evil II']
+alias: ['Saga of Tanya the Evil Season 2']
 has_source: true
 info:
   mal: 'https://myanimelist.net/anime/49233'
